@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Gerson Junior
 
-- 🔭 Atualmente sou Trainee de Desenvolvedor de Software
 - 🌱 Estou estudando Angular
 
 <div align="center">
