@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gerson Junior
 
-- 🌱 Estou estudando Angular
+- 🌱 Estou estudando React
 
 <div align="center">
   <a href="https://github.com/gersonjuniorr" >
